@@ -1,5 +1,5 @@
-# snuow.github.io
-Website
+# snuow githubpages
+info
 
 # my pages
 ## contents
